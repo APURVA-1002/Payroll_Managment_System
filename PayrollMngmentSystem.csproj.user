@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="AddEmpDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BaseForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Dashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeductionSection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EarningSection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NetPayCalculation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PaymentMethod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewDeductionSection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewEarningSection.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewEmpDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewEmpIncomeDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ViewNetPayCalculation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
